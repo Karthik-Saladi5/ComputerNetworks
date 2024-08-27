@@ -90,3 +90,17 @@ Protocols used in network communication also define:
   ![multicast](images/multi.png)
 - **BroadCast:** Sending data to all.
   ![broadcasting](images/broad.png)
+
+## Peer-To-Peer Network
+
+- No Centralized administration.
+- All peers are equal.
+- Simple sharing applications
+- Not scalable
+
+## Client Server Network
+
+- Centralized administration
+- Requst-Response model
+- Scalable
+- Server may be overloaded
