@@ -14,7 +14,7 @@ Lan - Devices:
 * Wired LAN(eg: Ethernet)
 * Wireless LAN (WIFI)
 
-### 2. Metropolitan Area Network (LAN)
+### 2. Metropolitan Area Network (MAN)
 
 A MAN is a computer network that interconnects computers with computer resources in a geographic region of the size of a City
 
